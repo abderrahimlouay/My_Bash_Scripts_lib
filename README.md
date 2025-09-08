@@ -1,7 +1,3 @@
-Sure! Here's a clean and professional **`README.md`** template for your **GitHub repo** titled `my-bash-scripts-lib`. It includes a project description, usage instructions, and how to run any script in the repository.
-
----
-
 ## My Bash Scripts Library
 
 This repository contains a collection of useful Bash scripts designed to automate various tasks on Linux systems. Each script is self-contained and serves a specific purpose, such as font installation, development environment setup, and more.
