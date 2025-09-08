@@ -16,6 +16,8 @@ This repository contains a collection of useful Bash scripts designed to automat
 * Linux-focused (tested on Fedora and Ubuntu)
 
 ---
+## Important note
+some scripts created by llms
 
 ## Usage
 
@@ -59,5 +61,6 @@ chmod +x install-fonts.sh
 ## Contribution
 
 If you have useful Bash scripts you'd like to share or improvements to existing ones, feel free to open a pull request or issue.
+
 
 
