@@ -1,3 +1,4 @@
+
 ## My Bash Scripts Library
 
 This repository contains a collection of useful Bash scripts designed to automate various tasks on Linux systems. Each script is self-contained and serves a specific purpose, such as font installation, development environment setup, and more.
@@ -12,16 +13,27 @@ This repository contains a collection of useful Bash scripts designed to automat
 * Linux-focused (tested on Fedora and Ubuntu)
 
 ---
-## Important note
-some scripts created by llms
+
+## Important Note
+
+Some scripts were created or assisted by language models (LLMs).
+
+---
 
 ## Usage
 
-### 1. install the Script you needed
+### 1. Download or Clone the Repository
+
+You can either download the script(s) you need or clone the entire repository:
+
+```bash
+git clone https://github.com/your-username/my-bash-scripts-lib.git
+cd my-bash-scripts-lib
+```
 
 ### 2. Make a Script Executable
 
-Before running any script, you must give it execute permission:
+Before running a script, give it execute permissions:
 
 ```bash
 chmod +x script-name.sh
@@ -29,13 +41,13 @@ chmod +x script-name.sh
 
 ### 3. Run a Script
 
-Use `./` to run the script from your terminal:
+Use `./` to run the script:
 
 ```bash
 ./script-name.sh
 ```
 
-If the script requires elevated privileges (e.g. installing packages), run it with `sudo`:
+If the script requires elevated privileges (e.g., installing packages), run it with `sudo`:
 
 ```bash
 sudo ./script-name.sh
@@ -54,9 +66,6 @@ chmod +x install-fonts.sh
 
 ---
 
-## Contribution
+## Contributing
 
-If you have useful Bash scripts you'd like to share or improvements to existing ones, feel free to open a pull request or issue.
-
-
-
+If you have useful Bash scripts you'd like to share or improvements to existing ones, feel free to open an issue or submit a pull request.
