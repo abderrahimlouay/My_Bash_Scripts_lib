@@ -27,7 +27,7 @@ Some scripts were created or assisted by language models (LLMs).
 You can either download the script(s) you need or clone the entire repository:
 
 ```bash
-git clone https://github.com/your-username/my-bash-scripts-lib.git
+git clone https://github.com/your-username/My_Bash_Scripts_lib.git
 cd my-bash-scripts-lib
 ```
 
