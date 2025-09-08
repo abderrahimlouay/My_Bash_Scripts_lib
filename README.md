@@ -19,7 +19,7 @@ This repository contains a collection of useful Bash scripts designed to automat
 
 ## Usage
 
-### 1. install the Script you need
+### 1. install the Script you needed
 
 ### 2. Make a Script Executable
 
